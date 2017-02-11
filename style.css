@@ -117,6 +117,10 @@ body {
     background-size: cover;
 }
 
+.footer {
+    height: 100px;
+    background-color: #272123;
+}
 
 
 .footer {
